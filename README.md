@@ -12,5 +12,3 @@ MAX7219 Display für ESP32
 - Microcontroller: ESP32
 - Dot-Matrix: MAX7219
 - Echtzeituhrmodul: DS3231
-
---Test
