@@ -52,6 +52,8 @@ void loop() {
         //Feuchtigkeitssymbol, Luftfeuchtigkeit
     //Menüpunkte scollen
         //Stoppuhr
+        //Timer
+        
 
 
 
