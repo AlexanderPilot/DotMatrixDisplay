@@ -1,4 +1,4 @@
-# DotMatrixDisplay
+# Smartclock
 
 ## Features
 - WiFi Anbindung zum Erhalt der Uhrzeit aus NTP Server
